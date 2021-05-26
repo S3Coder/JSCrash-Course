@@ -1,0 +1,2 @@
+# JSCrash-Course
+Practicing JavaScript
